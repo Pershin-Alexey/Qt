@@ -4,7 +4,9 @@
 
 int main(int argc, char *argv[])
 {
-    /* что-то добавили */
+    /* что-то добавили
+    давай еще что нибудь добавим */
+
     QApplication a(argc, argv);
     MainWindow w;
     w.show();
